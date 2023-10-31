@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\bin\Debug\net6.0-windows\lobTwoTy.exe
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\bin\Debug\net6.0-windows\lobTwoTy.deps.json
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\bin\Debug\net6.0-windows\lobTwoTy.runtimeconfig.json
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\bin\Debug\net6.0-windows\lobTwoTy.dll
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\bin\Debug\net6.0-windows\lobTwoTy.pdb
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.Form1.resources
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.AssemblyInfo.cs
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.dll
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\refint\lobTwoTy.dll
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.pdb
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\lobTwoTy.genruntimeconfig.cache
+C:\Users\user\Desktop\labC#\lobTwoTy\lobTwoTy\obj\Debug\net6.0-windows\ref\lobTwoTy.dll

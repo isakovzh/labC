@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\bin\Debug\net6.0-windows\labSixTy.exe
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\bin\Debug\net6.0-windows\labSixTy.deps.json
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\bin\Debug\net6.0-windows\labSixTy.runtimeconfig.json
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\bin\Debug\net6.0-windows\labSixTy.dll
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\bin\Debug\net6.0-windows\labSixTy.pdb
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.Form1.resources
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.AssemblyInfo.cs
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.dll
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\refint\labSixTy.dll
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.pdb
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\labSixTy.genruntimeconfig.cache
+C:\Users\user\Desktop\labC#\labSixTy\labSixTy\obj\Debug\net6.0-windows\ref\labSixTy.dll

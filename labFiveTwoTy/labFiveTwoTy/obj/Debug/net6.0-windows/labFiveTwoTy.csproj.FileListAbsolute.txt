@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\bin\Debug\net6.0-windows\labFiveTwoTy.exe
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\bin\Debug\net6.0-windows\labFiveTwoTy.deps.json
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\bin\Debug\net6.0-windows\labFiveTwoTy.runtimeconfig.json
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\bin\Debug\net6.0-windows\labFiveTwoTy.dll
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\bin\Debug\net6.0-windows\labFiveTwoTy.pdb
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.Form1.resources
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.AssemblyInfo.cs
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.dll
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\refint\labFiveTwoTy.dll
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.pdb
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\labFiveTwoTy.genruntimeconfig.cache
+C:\Users\user\Desktop\labC#\labFiveTwoTy\labFiveTwoTy\obj\Debug\net6.0-windows\ref\labFiveTwoTy.dll

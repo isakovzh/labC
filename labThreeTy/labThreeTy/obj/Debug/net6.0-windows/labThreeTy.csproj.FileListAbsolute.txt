@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\bin\Debug\net6.0-windows\labThreeTy.exe
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\bin\Debug\net6.0-windows\labThreeTy.deps.json
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\bin\Debug\net6.0-windows\labThreeTy.runtimeconfig.json
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\bin\Debug\net6.0-windows\labThreeTy.dll
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\bin\Debug\net6.0-windows\labThreeTy.pdb
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.Form1.resources
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.AssemblyInfo.cs
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.dll
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\refint\labThreeTy.dll
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.pdb
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\labThreeTy.genruntimeconfig.cache
+C:\Users\user\Desktop\labC#\labThreeTy\labThreeTy\obj\Debug\net6.0-windows\ref\labThreeTy.dll

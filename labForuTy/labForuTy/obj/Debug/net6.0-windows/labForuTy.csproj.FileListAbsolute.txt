@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\bin\Debug\net6.0-windows\labForuTy.exe
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\bin\Debug\net6.0-windows\labForuTy.deps.json
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\bin\Debug\net6.0-windows\labForuTy.runtimeconfig.json
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\bin\Debug\net6.0-windows\labForuTy.dll
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\bin\Debug\net6.0-windows\labForuTy.pdb
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.Form1.resources
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.Properties.Resources.resources
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.AssemblyInfo.cs
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.dll
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\refint\labForuTy.dll
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.pdb
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\labForuTy.genruntimeconfig.cache
+C:\Users\user\Desktop\labC#\labForuTy\labForuTy\obj\Debug\net6.0-windows\ref\labForuTy.dll
